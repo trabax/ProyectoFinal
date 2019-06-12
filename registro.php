@@ -7,10 +7,6 @@
 
 		<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700" rel="stylesheet">
 		<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css"/>
-		<link type="text/css" rel="stylesheet" href="css/slick.css"/>
-		<link type="text/css" rel="stylesheet" href="css/slick-theme.css"/>
-		<link type="text/css" rel="stylesheet" href="css/nouislider.min.css"/>
-		<link rel="stylesheet" href="css/font-awesome.min.css">
 		<link type="text/css" rel="stylesheet" href="css/estilo.css"/>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
     	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
@@ -25,8 +21,8 @@
 			<div id="top-header">
 				<div class="container">
 					<ul class="header-links pull-left">
-						<li><a href="#"><i class="fa fa-phone"></i>634987502</a></li>
-						<li><a href="#"><i class="fa fa-envelope-o"></i>game_market_@gmail.com</a></li>
+						<li><a href="#">634987502</a></li>
+						<li><a href="#">game_market_@gmail.com</a></li>
 					</ul>
 				</div>
 			</div>
@@ -52,12 +48,6 @@
 									
 									<h2>Regístrate ahora!</h2>
 
-								</div>
-								<div class="menu-toggle">
-									<a href="#">
-										<i class="fa fa-bars"></i>
-										<span>Menu</span>
-									</a>
 								</div>
 							</div>
 						</div>

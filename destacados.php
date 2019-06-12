@@ -7,9 +7,6 @@
 
 		<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700" rel="stylesheet">
 		<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css"/>
-		<link type="text/css" rel="stylesheet" href="css/slick.css"/>
-		<link type="text/css" rel="stylesheet" href="css/slick-theme.css"/>
-		<link type="text/css" rel="stylesheet" href="css/nouislider.min.css"/>
 		<link rel="stylesheet" href="css/font-awesome.min.css">
 		<link type="text/css" rel="stylesheet" href="css/estilo.css"/>
 
@@ -21,8 +18,8 @@
 			<div id="top-header">
 				<div class="container">
 					<ul class="header-links pull-left">
-						<li><a href="#"><i class="fa fa-phone"></i>634987502</a></li>
-						<li><a href="#"><i class="fa fa-envelope-o"></i>game_market_@gmail.com</a></li>
+						<li><a href="#">634987502</a></li>
+						<li><a href="#">game_market_@gmail.com</a></li>
 					</ul>
 				</div>
 			</div>
@@ -81,12 +78,5 @@
 			
 		</footer>
 		
-		<script src="js/jquery.min.js"></script>
-		<script src="js/bootstrap.min.js"></script>
-		<script src="js/slick.min.js"></script>
-		<script src="js/nouislider.min.js"></script>
-		<script src="js/jquery.zoom.min.js"></script>
-		<script src="js/main.js"></script>
-
 	</body>
 </html>
